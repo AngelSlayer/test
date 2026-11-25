@@ -1,0 +1,17 @@
+{
+  "$schema": "https://raw.githubusercontent.com/BX-Team/Riven/master/schema/v1/release.json",
+  "format": 1,
+  "id": "test",
+  "name": "test",
+  "version": "0.1.0",
+  "minecraft": "26.3",
+  "loader": {
+    "type": "neoforge",
+    "version": "26.3.0.115"
+  },
+  "java": {
+    "major": 25
+  },
+  "groups": [],
+  "files": []
+}
